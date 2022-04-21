@@ -1,1 +1,2 @@
 theme: jekyll-theme-cayman
+$ ./config.sh --url https://github.com/Network-internet/network-internet.github.io --token AXXN4BNEXXQXIKU4UGLX5JTCMFSPY
